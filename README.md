@@ -17,3 +17,6 @@ I developed an **object detection model using YOLO** on a custom fisheye road da
 ## 🚀 Example Command
 ```bash
 yolo task=detect mode=train model=yolov11x.pt data=data.yaml epochs=100 imgsz=640
+
+## 📊 Detection Results
+![camera19_A_0](https://github.com/user-attachments/assets/2784f735-5235-45a2-a12f-b5559c02a7e5)
